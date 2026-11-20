@@ -1,5 +1,9 @@
 # CC-Router for BB
 
+[![CI](https://github.com/nodueck/bb-plugin-cc-router/actions/workflows/ci.yml/badge.svg)](https://github.com/nodueck/bb-plugin-cc-router/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+![BB 0.49+](https://img.shields.io/badge/BB-0.49%2B-black)
+
 A BB extension that keeps [CC-Router](https://github.com/Timo972/cc-router) visible while you work: router health, every account's allowance usage, and the account each thread is running on.
 
 ![The CC-Router page: router health, provider summary, and a card per account with its usage windows](docs/cc-router-page.png)
